@@ -1,5 +1,8 @@
 _repo: The-Grandeur-That-Was-Rome_56747
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56747-h/images/cover.jpg
 creator:
   author:
     agent_name: Stobart, J. C. (John Clarke)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49015
     wikipedia: https://en.wikipedia.org/wiki/J._C._Stobart
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56747#The-Grandeur-That-Was-Rome
 gutenberg_issued: '2018-03-15'
 gutenberg_type: Text
 identifiers:
